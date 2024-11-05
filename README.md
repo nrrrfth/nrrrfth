@@ -3,6 +3,7 @@
 
 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/nur-fathia-achmadi/
+
 Medium: https://medium.com/@nfathiaaa
 
 
