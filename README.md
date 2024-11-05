@@ -1,12 +1,12 @@
-👋 Hi, I’m Fathia
+**👋 Hi, I’m Fathia**. 
 
-🌱 I’m currently learning Data 
+**I’m currently learning Data**
 
-📫 How to reach me:
+**📫 How to reach me:**
 
 LinkedIn: www.linkedin.com/in/nur-fathia-achmadi/
 
-Medium: medium.com/@nfathiaaa
+Medium: https://medium.com/@nfathiaaa
 
 
 <!---
