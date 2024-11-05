@@ -4,9 +4,9 @@
 
 📫 How to reach me:
 
-LinkedIn: https://www.linkedin.com/in/nur-fathia-achmadi/
+LinkedIn: www.linkedin.com/in/nur-fathia-achmadi/
 
-Medium: https://medium.com/@nfathiaaa
+Medium: medium.com/@nfathiaaa
 
 
 <!---
