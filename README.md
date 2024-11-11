@@ -2,7 +2,7 @@
 
 I'm a Data Analyst/BI Analyst from Indonesia who is passionate about learning new things in the data field.
 
-- I am one of the people who switched career from non data to data. Along the way of this career switch, I spent time learning at one of the bootcamps, <a href="https://pacmann.io/">Pacmann</a>
+- I am one of the people who switched career from non data to data. Along the way of this career switch, I spent time learning at one of the bootcamps and self-learning
 
 - I love spending time learning about data and have a passion for writing in <a href="https://medium.com/@nfathiaaa/">Medium</a>
 
